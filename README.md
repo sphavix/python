@@ -3,7 +3,7 @@
 The repository contains the following content/steps to predict the number of rentals that you'll have on a future date:
     
    
-    Import a sample database
+    Import a sample database (TutorialDB.bak)
     
     Load the data from the database into a pandas data frame
     
