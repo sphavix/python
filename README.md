@@ -20,6 +20,17 @@ The repository contains the following content/steps to predict the number of ren
     Create a stored procedure that makes predictions using the model
     
     Execute the model with new data
+    
+    
+    
+# Technologies
+    
+    Python 3 Jupyter Notebook
+    
+    Visual Studio Code
+    
+    Azure Data Studio
+       
 
 
 
